@@ -38,7 +38,7 @@ export default function CertificationsPage() {
         rel="noopener noreferrer"
         className="mt-2 inline-block text-sm text-sky-400 underline underline-offset-4"
       >
-        {/* Read */}
+        Read
       </a>
     )}
   </div>

@@ -34,7 +34,7 @@ function ArticleBody() {
   </h1>
 
   <p className="mt-4 text-[15px] leading-7 text-white">
-    I’m an <strong className="text-white">AI/ML - Software Engineer</strong><strong className="text-white"></strong>, and <strong className="text-white">Researcher</strong> with over three years of experience designing scalable, agentic machine learning systems across cloud platforms. I currently work as a Security Analyst & Research Assistant at Central Michigan University, where I pioneer multi-agent RL frameworks and advanced MLOps pipelines to support robust cyber-defense and AI orchestration for real-world deployment.
+    I’m an <strong className="text-white">AI/ML - Software Engineer</strong><strong className="text-white"></strong>, and <strong className="text-white">Researcher</strong> with over three years of experience designing scalable, agentic machine learning systems across cloud platforms. I currently work as an AI/ML - Security Analyst & Research Assistant at Central Michigan University, where I pioneer multi-agent RL frameworks and advanced MLOps pipelines to support robust cyber-defense and AI orchestration for real-world deployment.
   </p>
 
   <div className="mt-6 space-y-4 text-[15px] leading-7">
