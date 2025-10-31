@@ -256,6 +256,13 @@ export const CERTIFICATIONS = [
     link: "https://medium.com/@tarunbevara10/inside-paligemma-building-an-open-transferable-3b-vision-language-model-adb43c8ea3d4",
     image: "VIT.png"
   },
+    {
+    title: "Less Is More: My Deep Dive into Recursive Reasoning with Tiny Networks",
+    issuer: "",
+    year: "2025",
+    link: "https://medium.com/@tarunbevara10/less-is-more-my-deep-dive-into-recursive-reasoning-with-tiny-networks-824885b6f9db",
+    image: "Less.png"
+  },
 ];
 
 /* ──────────────────────────────────────────────────────────────
